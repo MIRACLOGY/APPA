@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/APPA/static/css/main.f1de573b.css",
-    "main.js": "/APPA/static/js/main.bd10afb6.js",
+    "main.js": "/APPA/static/js/main.d0846241.js",
     "static/js/453.ad6eb26e.chunk.js": "/APPA/static/js/453.ad6eb26e.chunk.js",
+    "static/media/red-marker-icon.png": "/APPA/static/media/red-marker-icon.7c66505edf8f6c8e9164.png",
     "index.html": "/APPA/index.html",
     "main.f1de573b.css.map": "/APPA/static/css/main.f1de573b.css.map",
-    "main.bd10afb6.js.map": "/APPA/static/js/main.bd10afb6.js.map",
+    "main.d0846241.js.map": "/APPA/static/js/main.d0846241.js.map",
     "453.ad6eb26e.chunk.js.map": "/APPA/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1de573b.css",
-    "static/js/main.bd10afb6.js"
+    "static/js/main.d0846241.js"
   ]
 }
