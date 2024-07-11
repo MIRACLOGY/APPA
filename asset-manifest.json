@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/APPA/static/css/main.f1de573b.css",
+    "main.js": "/APPA/static/js/main.bd10afb6.js",
+    "static/js/453.ad6eb26e.chunk.js": "/APPA/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/APPA/index.html",
+    "main.f1de573b.css.map": "/APPA/static/css/main.f1de573b.css.map",
+    "main.bd10afb6.js.map": "/APPA/static/js/main.bd10afb6.js.map",
+    "453.ad6eb26e.chunk.js.map": "/APPA/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1de573b.css",
+    "static/js/main.bd10afb6.js"
+  ]
+}
