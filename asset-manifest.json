@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/APPA/static/css/main.66d37862.css",
-    "main.js": "/APPA/static/js/main.6a29b4c6.js",
+    "main.css": "/APPA/static/css/main.225aed77.css",
+    "main.js": "/APPA/static/js/main.7829d749.js",
     "static/js/453.ad6eb26e.chunk.js": "/APPA/static/js/453.ad6eb26e.chunk.js",
     "static/media/red-marker-icon.png": "/APPA/static/media/red-marker-icon.7c66505edf8f6c8e9164.png",
+    "static/media/up.png": "/APPA/static/media/up.ac344577ecb6aab0edc7.png",
     "index.html": "/APPA/index.html",
-    "main.66d37862.css.map": "/APPA/static/css/main.66d37862.css.map",
-    "main.6a29b4c6.js.map": "/APPA/static/js/main.6a29b4c6.js.map",
+    "main.225aed77.css.map": "/APPA/static/css/main.225aed77.css.map",
+    "main.7829d749.js.map": "/APPA/static/js/main.7829d749.js.map",
     "453.ad6eb26e.chunk.js.map": "/APPA/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66d37862.css",
-    "static/js/main.6a29b4c6.js"
+    "static/css/main.225aed77.css",
+    "static/js/main.7829d749.js"
   ]
 }
